@@ -12,14 +12,14 @@ This project aim is to do analysis in E-Commerce Public Dataset. With addition t
 
 - **/E-Commerce Public Dataset**: This directory contains all the data that use in this project, with csv format.
 - **/dashboard**: This directory contains main.py which used for build dashboard, func.py to read datasets, and data that already cleaned with csv format.
-- **notebook.ipynb**: This file contains all analysis for this project.
+- **Data Analysis Notebook.ipynb**: This file contains all analysis for this project.
 
 ## Instalation
 
 1. Clone repository to your local computer with this command:
 
    ```shell
-   git clone 
+   git clone https://github.com/Mnugroh0/Dicoding.git 
    ```
 
 2. Make sure you have Python environment that compatible with the requirements. Do this to install all the requirements:
@@ -35,7 +35,7 @@ This project aim is to do analysis in E-Commerce Public Dataset. With addition t
 
    ```shell
    cd dicoding/dashboard/
-   streamlit run main.py
+   streamlit run dashboard.py
    ```
 
-   or visit this website [Project Data Analytics]
+   or visit this website [Project Data Analytics](https://dicoding-v4w8jkyg8myxvjmeag2nrd.streamlit.app/)
