@@ -9,7 +9,7 @@ sns.set(style='dark')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Dataset
-main_df = pd.read_csv('./clean_data.csv')
+main_df = pd.read_csv('./dashboard/clean_data.csv')
 
 # Change column to datetime
 main_df['order_purchase_timestamp'] = pd.to_datetime(main_df['order_purchase_timestamp'])
