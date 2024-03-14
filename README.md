@@ -1,4 +1,4 @@
-# Submission Dicoding "Belajar Data Analytics dengan Python"
+# **E-Commerce Public Data Analysis**
 
 ## Project Data Analysis
 
