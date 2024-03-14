@@ -5,7 +5,6 @@ import seaborn as sns
 import numpy as np
 import calendar
 from func import DataFrameProcess
-sns.set(style='dark')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Dataset
