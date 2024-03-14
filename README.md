@@ -34,8 +34,8 @@ This project aim is to do analysis in E-Commerce Public Dataset. With addition t
 1. Go to Directory (Local):
 
    ```shell
-   cd dicoding/dashboard/
+   cd 'Dicoding Data Analysis'/dashboard/
    streamlit run dashboard.py
    ```
 
-   or visit this website [Project Data Analytics](https://dicoding-v4w8jkyg8myxvjmeag2nrd.streamlit.app/)
+   or visit this website [Project Data Analytics - Adi](https://dicoding-v4w8jkyg8myxvjmeag2nrd.streamlit.app/)
